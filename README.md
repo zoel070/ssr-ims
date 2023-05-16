@@ -3,6 +3,11 @@
 # IMS
 
 信息管理系统
+![1684219330558](https://github.com/zoel070/ssr-ims/assets/121177078/c28d7d30-ece8-4542-9a40-45295b77829e)
+![1684219339755](https://github.com/zoel070/ssr-ims/assets/121177078/47ad18ed-b975-4660-83d0-13426f5e3299)
+![1684219358536](https://github.com/zoel070/ssr-ims/assets/121177078/08f9e464-848e-41d2-be06-13297d24222c)
+![1684219375701](https://github.com/zoel070/ssr-ims/assets/121177078/f288c9d0-d212-43ab-93b1-c410f27f2127)
+![1684219384000](https://github.com/zoel070/ssr-ims/assets/121177078/eb2998b6-bbb0-4782-b92a-b3520f687ba2)
 
 核心技术：
 
